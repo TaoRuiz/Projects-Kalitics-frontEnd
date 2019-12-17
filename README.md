@@ -1,3 +1,16 @@
+# Installation du projet
+
+Dans le répertoire lancer la CLI : npm install
+
+# Modifier l'URL de l'api (par défault : http://localhost:3000/api/ )
+
+Dans le fichier /environments/environments.ts modifier la valeur de 'apiURL'
+
+# Lancer le serveur
+
+Dans la CLI : ng serve (ou ng serve --open)
+Par défaut l'adresse sera http://localhost:4200/
+
 # FrontEnd
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.19.

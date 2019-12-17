@@ -1,0 +1,11 @@
+[type="button"] {
+  width: 3rem;
+  height: 3rem;
+  text-align: center;
+  border: 1px grey solid;
+}
+
+[type="button"]:hover {
+  background-color: #8e55e4;
+  color: white;
+}
